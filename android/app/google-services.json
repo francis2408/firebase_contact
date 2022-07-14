@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "641470808779",
+    "project_id": "flutterbootcamp-36349",
+    "storage_bucket": "flutterbootcamp-36349.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:641470808779:android:305c619541383cfb6f514e",
+        "android_client_info": {
+          "package_name": "com.example.firebase_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "641470808779-r462v0b1eksci4n94kfd9ajbt63u0qa2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdqodegl9h5QNAg1Jz5Z4XZZ_RpLBF3p4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "641470808779-r462v0b1eksci4n94kfd9ajbt63u0qa2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
